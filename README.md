@@ -1,3 +1,3 @@
-# VeriAnaliziOlculeri
+# Veri Analizi Ölçüleri
 
-Medyan Mod Standart Sapma Varyans Kovaryans Korelasyon
+### Medyan Mod Standart Sapma Varyans Kovaryans Korelasyon
